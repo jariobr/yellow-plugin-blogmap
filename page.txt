@@ -1,0 +1,6 @@
+---
+Title: Blogmap
+Description: Sitemap
+Template: blogmap
+---
+This page is automatically generated.
